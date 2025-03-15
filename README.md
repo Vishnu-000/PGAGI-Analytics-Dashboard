@@ -45,7 +45,7 @@ NEXT_PUBLIC_FINANCE_API_KEY=your_finance_api_key
 ```bash
 yarn dev
 ```
-The application runs at **http://localhost:3000**  
+The application runs at **[pgagi--analytics-dashboard.vercel.app](https://pgagi--analytics-dashboard.vercel.app/)**  
 
 ## **Deployment**  
 The project is **deployed on Vercel**: **[Live Demo](https://your-vercel-link.vercel.app/)**  
